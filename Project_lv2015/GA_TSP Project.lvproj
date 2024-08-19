@@ -13,8 +13,18 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="data" Type="Folder"/>
 		<Item Name="SubVI" Type="Folder"/>
+		<Item Name="TSP" Type="Folder">
+			<Item Name="TSP Library.lvlib" Type="Library" URL="../TSP Library/TSP Library.lvlib"/>
+		</Item>
 		<Item Name="TypeDef" Type="Folder"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="main_TSP.vi" Type="VI" URL="../main_TSP.vi"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="lveventtype.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/lveventtype.ctl"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
