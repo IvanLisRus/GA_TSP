@@ -11,8 +11,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="data" Type="Folder"/>
+		<Item Name="data" Type="Folder" URL="../data">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="SubVI" Type="Folder"/>
+		<Item Name="Temp" Type="Folder">
+			<Item Name="ulysses16.vi" Type="VI" URL="../Temp/ulysses16.vi"/>
+		</Item>
 		<Item Name="TSP" Type="Folder">
 			<Item Name="TSP Library.lvlib" Type="Library" URL="../TSP Library/TSP Library.lvlib"/>
 		</Item>

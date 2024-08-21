@@ -1,0 +1,5 @@
+List
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
+
+Optimal solutions for symmetric TSPs
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/STSP.html
