@@ -17,7 +17,8 @@
 		<Item Name="Crossover.vi" Type="VI" URL="../SubVI/Crossover.vi"/>
 		<Item Name="Draw Tour.vi" Type="VI" URL="../SubVI/Draw Tour.vi"/>
 		<Item Name="Load TSP File.vi" Type="VI" URL="../SubVI/Load TSP File.vi"/>
-		<Item Name="Mutation.vi" Type="VI" URL="../SubVI/Mutation.vi"/>
+		<Item Name="Mutation v1.vi" Type="VI" URL="../SubVI/Mutation v1.vi"/>
+		<Item Name="Mutation v2.vi" Type="VI" URL="../SubVI/Mutation v2.vi"/>
 		<Item Name="Roulette.vi" Type="VI" URL="../SubVI/Roulette.vi"/>
 		<Item Name="Selection.vi" Type="VI" URL="../SubVI/Selection.vi"/>
 	</Item>
