@@ -16,14 +16,15 @@
 		<Item Name="Create RND Tour.vi" Type="VI" URL="../SubVI/Create RND Tour.vi"/>
 		<Item Name="Crossover.vi" Type="VI" URL="../SubVI/Crossover.vi"/>
 		<Item Name="Draw Tour.vi" Type="VI" URL="../SubVI/Draw Tour.vi"/>
+		<Item Name="Load TSP File.vi" Type="VI" URL="../SubVI/Load TSP File.vi"/>
 		<Item Name="Mutation.vi" Type="VI" URL="../SubVI/Mutation.vi"/>
+		<Item Name="Roulette.vi" Type="VI" URL="../SubVI/Roulette.vi"/>
 		<Item Name="Selection.vi" Type="VI" URL="../SubVI/Selection.vi"/>
-	</Item>
-	<Item Name="SubVI File" Type="Folder">
-		<Item Name="Load TSP File.vi" Type="VI" URL="../SubVI File/Load TSP File.vi"/>
 	</Item>
 	<Item Name="TypeDef" Type="Folder">
 		<Item Name="Coordinate.ctl" Type="VI" URL="../TypeDef/Coordinate.ctl"/>
+		<Item Name="Crossover.ctl" Type="VI" URL="../TypeDef/Crossover.ctl"/>
+		<Item Name="Mutation.ctl" Type="VI" URL="../TypeDef/Mutation.ctl"/>
 		<Item Name="Path.ctl" Type="VI" URL="../TypeDef/Path.ctl"/>
 	</Item>
 	<Item Name="TSP Class.lvclass" Type="LVClass" URL="../Class/TSP Class.lvclass"/>

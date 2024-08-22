@@ -14,14 +14,12 @@
 		<Item Name="data" Type="Folder" URL="../data">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="SubVI" Type="Folder"/>
 		<Item Name="Temp" Type="Folder">
 			<Item Name="ulysses16.vi" Type="VI" URL="../Temp/ulysses16.vi"/>
 		</Item>
 		<Item Name="TSP" Type="Folder">
 			<Item Name="TSP Library.lvlib" Type="Library" URL="../TSP Library/TSP Library.lvlib"/>
 		</Item>
-		<Item Name="TypeDef" Type="Folder"/>
 		<Item Name="main_TSP.vi" Type="VI" URL="../main_TSP.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
