@@ -10,11 +10,14 @@
 
 </Property>
 	<Item Name="SubVI" Type="Folder">
+		<Item Name="Calc Distance for Population.vi" Type="VI" URL="../SubVI/Calc Distance for Population.vi"/>
 		<Item Name="Calc Distance Matrix.vi" Type="VI" URL="../SubVI/Calc Distance Matrix.vi"/>
 		<Item Name="Calc Distance.vi" Type="VI" URL="../SubVI/Calc Distance.vi"/>
 		<Item Name="Coordinate RND.vi" Type="VI" URL="../SubVI/Coordinate RND.vi"/>
 		<Item Name="Create RND Tour.vi" Type="VI" URL="../SubVI/Create RND Tour.vi"/>
-		<Item Name="Crossover.vi" Type="VI" URL="../SubVI/Crossover.vi"/>
+		<Item Name="Crossover v1.vi" Type="VI" URL="../SubVI/Crossover v1.vi"/>
+		<Item Name="Crossover v2.vi" Type="VI" URL="../SubVI/Crossover v2.vi"/>
+		<Item Name="Crossover v3.vi" Type="VI" URL="../SubVI/Crossover v3.vi"/>
 		<Item Name="Draw Tour.vi" Type="VI" URL="../SubVI/Draw Tour.vi"/>
 		<Item Name="Load TSP File.vi" Type="VI" URL="../SubVI/Load TSP File.vi"/>
 		<Item Name="Mutation v1.vi" Type="VI" URL="../SubVI/Mutation v1.vi"/>
