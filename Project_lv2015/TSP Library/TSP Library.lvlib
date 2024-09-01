@@ -22,6 +22,8 @@
 		<Item Name="Load TSP File.vi" Type="VI" URL="../SubVI/Load TSP File.vi"/>
 		<Item Name="Mutation v1.vi" Type="VI" URL="../SubVI/Mutation v1.vi"/>
 		<Item Name="Mutation v2.vi" Type="VI" URL="../SubVI/Mutation v2.vi"/>
+		<Item Name="Mutation v3.vi" Type="VI" URL="../SubVI/Mutation v3.vi"/>
+		<Item Name="RND Integer.vi" Type="VI" URL="../SubVI/RND Integer.vi"/>
 		<Item Name="Roulette.vi" Type="VI" URL="../SubVI/Roulette.vi"/>
 		<Item Name="Selection.vi" Type="VI" URL="../SubVI/Selection.vi"/>
 	</Item>

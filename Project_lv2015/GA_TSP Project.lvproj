@@ -15,6 +15,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Temp" Type="Folder">
+			<Item Name="Test RND Integer.vi" Type="VI" URL="../Temp/Test RND Integer.vi"/>
 			<Item Name="ulysses16.vi" Type="VI" URL="../Temp/ulysses16.vi"/>
 		</Item>
 		<Item Name="TSP" Type="Folder">
